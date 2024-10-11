@@ -32,10 +32,9 @@ public class SiakadWhile18 {
             } else {
                 System.out.println("Nilai mahasiswa ke-" + (i + 1) + " adalah E ");
             }
+
             i++;
 
-            input.close();
         }
     }
 }
-
